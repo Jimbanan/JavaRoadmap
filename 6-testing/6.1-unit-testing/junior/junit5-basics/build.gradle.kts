@@ -6,8 +6,7 @@ plugins {
 
 group = "ru.personal"
 version = "0.0.1-SNAPSHOT"
-description = "JavaRoadmap"
-
+description = "junit5-basics"
 
 java {
     toolchain {

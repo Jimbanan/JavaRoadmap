@@ -8,6 +8,7 @@ group = "ru.personal"
 version = "0.0.1-SNAPSHOT"
 description = "JavaRoadmap"
 
+
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(21)
